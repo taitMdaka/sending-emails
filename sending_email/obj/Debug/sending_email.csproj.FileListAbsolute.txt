@@ -1,0 +1,9 @@
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\bin\Debug\sending_email.exe.config
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\obj\Debug\sending_email.csprojResolveAssemblyReference.cache
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\obj\Debug\sending_email.Form1.resources
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\obj\Debug\sending_email.Properties.Resources.resources
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\obj\Debug\sending_email.csproj.GenerateResource.Cache
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\bin\Debug\sending_email.exe
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\bin\Debug\sending_email.pdb
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\obj\Debug\sending_email.exe
+C:\Users\TMdaka\Desktop\Delete\sending_email\sending_email\obj\Debug\sending_email.pdb
